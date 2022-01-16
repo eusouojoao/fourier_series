@@ -1,3 +1,4 @@
+#!/bin/python3
 from cmath import phase, sin, pi, e;
 
 def fourier_serie(): # {{
